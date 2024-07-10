@@ -1,63 +1,57 @@
 <script setup>
-    import { defineProps, defineEmits } from 'vue'
+import { defineProps, defineEmits } from 'vue'
 
-    const emit = defineEmits("selectOption")
-    const {question} = defineProps(['question'])
+const emit = defineEmits("selectOption")
+const { question } = defineProps(['question'])
 
-    const emitSelectedOption = (isCorrect) => {
-        emit("selectOption", isCorrect)
-    }
+const emitSelectedOption = (isCorrect) => {
+    emit("selectOption", isCorrect)
+}
 </script>
 
 <template>
-    <div class="question-container">
-        <h1 class="question">
-            {{question.text}}
-        </h1>
+    <div class="question-header">
+        <h2>{{question.text}}</h2>
     </div>
-    <div class="answers-container">
-        <div v-for="option in question.options" 
-        :key="option.id" 
-        class="option"
-        @click="emitSelectedOption(option.isCorrect)"
-        >
-            <p class="option-label">{{option.label}}</p>
-            <div class="option-value">{{option.text}}</div>       
+    <div class="options-container">
+        <div v-for="option in question.options" class="card" :key="option.id" @click="emitSelectedOption(option.isCorrect)">
+            <img :src="option.img">
+            <div class="card-text">
+                <h2>{{ option.text }}</h2>
+            </div>
         </div>
     </div>
 </template>
 
-
 <style scoped>
-.question-container {
-    margin-top: 20px;
-}
 
-.question {
-    font-size: 40px;
-    margin-bottom: 20px;
-}
-
-.option {
+.options-container {
     display: flex;
-    margin-bottom: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.card {
+    width: 310px;
+    overflow: hidden;
+    border-radius: 2%;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 35px;
+    margin-right: 20px;
     cursor: pointer;
 }
 
-.option-label {
-    background-color: bisque;
-    width: 60px;
-    height: 60px;
-    font-size: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.card img {
+    width: 100%;
+    height: 300px;
+    margin: 0;
 }
 
-.option-value {
-    background-color: rgb(244, 239, 239);
-    width: 100%;
-    font-size: 30px;
-    padding: 0;
+.card .card-text {
+    padding: 0 5px;
+}
+
+.card card-text h2 {
+    font-weight: bold;
 }
 </style>

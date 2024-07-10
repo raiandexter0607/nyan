@@ -35,7 +35,7 @@ const navigateToQuiz = () => {
 
 .card img {
     width: 100%;
-    height: 190px;
+    height: 300px;
     margin: 0;
 }
 

@@ -27,6 +27,7 @@ header h4 {
     width: 300px;
     height: 20px;
     border: 3px solid bisque;
+    margin-bottom: 20px;
 }
 
 .completion {

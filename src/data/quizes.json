@@ -1,289 +1,87 @@
 [
     {
         "id": 1,
-        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
-        "name": "Math",
+        "img": "https://i.ibb.co/qrWsL12/90-BF166-C-4-B4-E-4-B21-91-EE-289-F56-E0-D572.jpg",
+        "name": "Que tanto me conoces",
         "questions": [
             {
                 "id": 1,
-                "text": "8 ÷ 2(2 + 2)",
+                "img": "",
+                "text": "Quien de ellos es mi crush?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "16",
+                        "text": "Harry Styles",
+                        "img": "https://media.npr.org/assets/img/2020/02/27/wide-use_hpromophoto_helenepambrun-da307fb79cbc5ff2ea8a395c5a5132c33fb43602.jpg",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "1",
+                        "text": "Charles Lecrerc",
+                        "img": "https://www.clarin.com/2020/06/15/BBucHrOU9_720x0__1.jpg",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "8",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "24",
+                        "text": "Lucas Till",
+                        "img": "https://cdn01.justjaredjr.com/wp-content/uploads/2017/03/lucas-hannah/lucas-till-thankful-hannah-days-03.jpg",
                         "isCorrect": false
                     }
                 ]
             },
             {
                 "id": 2,
-                "text": "sqrt(64) * 9",
+                "text": "Que super poderosa me representa mas?",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "4",
+                        "text": "Bombom",
+                        "img": "https://pm1.aminoapps.com/7001/d4eb8945852be8cbfb453a458c36d6e3def30796r1-400-300v2_00.jpg",
                         "isCorrect": false
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "81",
+                        "text": "Burbuja",
+                        "img": "https://i.pinimg.com/236x/bd/2f/c7/bd2fc74682d8ac0a757ed728b7f7128f.jpg",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "72",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "144",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "3 + 3 x 3 ÷ 3 - 3",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "3",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "1",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "9",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "16",
-                        "isCorrect": false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
-        "name": "Biology",
-        "questions": [
-            {
-                "id": 1,
-                "text": "The Kreb Cycles occurs in the",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "Mitochondria",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Nucleus",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Rough ER",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "Cystol",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "text": "How many oxygen molecules can hemoglobin hold",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "1",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "2",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "3",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "4",
+                        "text": "Bellota",
+                        "img": "https://i.pinimg.com/236x/aa/0b/e5/aa0be5678116168ae0ad267f63f96d77.jpg",
                         "isCorrect": true
                     }
                 ]
             },
             {
                 "id": 3,
-                "text": "The cones see ___ while the rods see ___",
+                "text": "Comida Favorita",
                 "options": [
                     {
                         "id": 1,
                         "label": "A",
-                        "text": "black and white; color",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "color; black and white",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "3D objects; 2D shapes",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "2D shapes; 3D objects",
-                        "isCorrect": false
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
-        "name": "Chemistry",
-        "questions": [
-            {
-                "id": 1,
-                "text": "What is the composition of table salt",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "NaCl",
+                        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/NPCOUP725ZBQBCLN6TJ5RUSHHI.jpg",
+                        "text": "Sancocho",
                         "isCorrect": true
                     },
                     {
                         "id": 2,
                         "label": "B",
-                        "text": "K2",
+                        "text": "Pasta",
+                        "img": "https://images.aws.nestle.recipes/resized/cc72869fabfc2bdfa036fd1fe0e2bad8_creamy_alfredo_pasta_long_left_1080_850.jpg",
                         "isCorrect": false
                     },
                     {
                         "id": 3,
                         "label": "C",
-                        "text": "NaCl2C4H7",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "CH4",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "text": "What is Potassium's chemical symbol",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "P",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Pt",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Pts",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "K",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Which is not organinc",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "CH4",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "NaCl",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "C2H6",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 4,
-                        "label": "D",
-                        "text": "C3H8",
+                        "text": "Ceviche",
+                        "img": "https://i0.wp.com/recetaskwa.com/wp-content/uploads/2023/09/ceviche_camaron.jpg?ssl=1",
                         "isCorrect": false
                     }
                 ]
