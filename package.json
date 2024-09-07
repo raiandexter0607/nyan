@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.4.29",
+    "lodash": "4.17.19" ,
     "vue-router": "^4.4.0",
     "@azure/arm-botservice": "^1.0.0",
     "@azure/arm-appinsights": "^2.1.0",
