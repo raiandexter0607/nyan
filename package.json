@@ -10,11 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.4.29",
-    "vue-router": "^4.4.0"
-  },
-  "devDependencies": {
-    "@vitejs/plugin-vue": "^5.0.5",
-    "vite": "^5.3.1",
+    "vue-router": "^4.4.0",
     "@azure/arm-appinsights": "^2.1.0",
     "@azure/arm-botservice": "^1.0.0",
     "@azure/arm-resources": "^2.1.0",
@@ -27,5 +23,9 @@
     "ora": "^4.0.4",
     "request-promise": "^4.2.5",
     "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
   }
 }
