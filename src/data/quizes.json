@@ -1,280 +1,280 @@
 [
-    {
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/qrWsL12/90-BF166-C-4-B4-E-4-B21-91-EE-289-F56-E0-D572.jpg",
+    "name": "Que tanto me conoces",
+    "questions": [
+      {
         "id": 1,
-        "img": "https://i.ibb.co/qrWsL12/90-BF166-C-4-B4-E-4-B21-91-EE-289-F56-E0-D572.jpg",
-        "name": "Que tanto me conoces",
-        "questions": [
-            {
-                "id": 1,
-                "img": "",
-                "text": "Quien de ellos es mi crush?",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "Harry Styles",
-                        "img": "https://media.gq.com.mx/photos/6287aef4b6ab8961742397a3/master/pass/Harry-Styles-New-Album-.jpg",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Charles Lecrerc",
-                        "img": "https://www.clarin.com/2020/06/15/BBucHrOU9_720x0__1.jpg",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Lucas Till",
-                        "img": "https://cdn01.justjaredjr.com/wp-content/uploads/2017/03/lucas-hannah/lucas-till-thankful-hannah-days-03.jpg",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "text": "Que super poderosa me representa mas?",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "text": "Bombom",
-                        "img": "https://pm1.aminoapps.com/7001/d4eb8945852be8cbfb453a458c36d6e3def30796r1-400-300v2_00.jpg",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Burbuja",
-                        "img": "https://i.pinimg.com/236x/bd/2f/c7/bd2fc74682d8ac0a757ed728b7f7128f.jpg",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Bellota",
-                        "img": "https://i.pinimg.com/236x/aa/0b/e5/aa0be5678116168ae0ad267f63f96d77.jpg",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Comida Favorita",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/NPCOUP725ZBQBCLN6TJ5RUSHHI.jpg",
-                        "text": "Sancocho",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Pasta",
-                        "img": "https://images.aws.nestle.recipes/resized/cc72869fabfc2bdfa036fd1fe0e2bad8_creamy_alfredo_pasta_long_left_1080_850.jpg",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Ceviche",
-                        "img": "https://i0.wp.com/recetaskwa.com/wp-content/uploads/2023/09/ceviche_camaron.jpg?ssl=1",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Tipo de barba que prefiero en hombres",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://www.bellaroma.mx/wp-content/uploads/2021/07/balbo-o-ancla.jpg",
-                        "text": "Medio Medio",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Barba y Bigote",
-                        "img": "https://images.ecestaticos.com/NlG3bGAF7UVo24JzhcMdh6nE7UI=/0x0:0x0/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd44%2Ff28%2Fb9a%2Fd44f28b9ad4ca17507118a7794f7ef8d.jpg",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Lampiños",
-                        "img": "https://www.shutterstock.com/image-photo/portrait-smiling-shirtless-young-handsome-260nw-1202154754.jpg",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Mi Crush Koreano",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://www.semana.com/resizer/wv_gN9WFqlSslv0bH_1NkpWXrGA=/arc-anglerfish-arc2-prod-semana/public/7BE2Y24ZSBCPZHOX3CUIT6LQIU.JPG",
-                        "text": "Koreano Colombiano",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Jungkook (BTS)",
-                        "img": "https://fotos.perfil.com/2024/02/16/trim/1280/720/jungkook-1756194.jpg",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Chanyeol (EXO)",
-                        "img": "https://altselection.com/wp-content/uploads/2021/05/chanyeol-ballon-protestation-758x443.jpg",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Que carro elejiria para mi?",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/10/20211002-MINI-COOPER-2022-COLOMBIA-PRECIOS-VERSIONES-CARACTERISTICAS-01.jpg",
-                        "text": "Opcion 1",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Opcion 2",
-                        "img": "https://img.remediosdigitales.com/38b6fe/jeep-wrangler-y-gladiator-high-altitude-2-/840_560.jpg",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Opcion 3",
-                        "img": "https://i.pinimg.com/originals/e1/83/5d/e1835d664fc9dfb42ceee273013ca2be.jpg",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Cual rodilla me operaron?",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://static.vecteezy.com/system/resources/previews/022/207/441/non_2x/sad-knee-bleeding-boy-falling-down-vector.jpg",
-                        "text": "Izquierda",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Ambas",
-                        "img": "https://www.shutterstock.com/image-vector/sad-cry-cute-kid-girl-600nw-1529301131.jpg",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Derecha",
-                        "img": "https://static.vecteezy.com/system/resources/previews/009/295/228/original/sad-little-girl-has-a-knee-injury-crying-holding-her-scratch-bleeding-leg-with-bruises-after-fell-down-vector.jpg",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Numero de tatuajes?",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://media.glamour.mx/photos/64d4423e8bcbb1503ffa0a3e/16:9/w_2560%2Cc_limit/tatuajes-pequenos.jpg",
-                        "text": "1",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "4",
-                        "img": "https://cdntattoofilter.com/tattoo/3422/l.jpg",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "5",
-                        "img": "https://www.tattooforaweek.com/cdn/shop/products/number-5-_five_-fake-tattoo-a_1000x.jpg?v=1655977346",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Con cual de ellos me quedo?",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://caracoltv.brightspotcdn.com/dims4/default/84653ca/2147483647/strip/true/crop/940x614+0+0/resize/940x614!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2f%2Fd8%2Fbb05bdee4083b6f597081c9f89b9%2Fazul-verde-azulado-oceano-collage-de-fotos-publicacion-de-facebook.jpg",
-                        "text": "Renzo",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Arandu",
-                        "img": "https://caracoltv.brightspotcdn.com/dims4/default/0cd1b8c/2147483647/strip/true/crop/1300x867+0+0/resize/1000x667!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F2d%2Ff320ef9842fcba3c98ff79debd99%2F10.jpg",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Santi",
-                        "img": "https://caracoltv.brightspotcdn.com/dims4/default/f6f0c28/2147483647/strip/true/crop/1920x1080+0+0/resize/1000x563!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2F33%2F4ce1f18542c386d6573bfaaaf98a%2Festo-fue-lo-que-le-paso-a-santi-en-el-box-blanco-del-desafi-2024.png",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "text": "Como se llama mi papa?",
-                "options": [
-                    {
-                        "id": 1,
-                        "label": "A",
-                        "img": "https://educo.org.bo/wp-content/uploads/2018/03/P2.jpg",
-                        "text": "Jaime",
-                        "isCorrect": true
-                    },
-                    {
-                        "id": 2,
-                        "label": "B",
-                        "text": "Carlos",
-                        "img": "https://home.tequeremosescuchar.com/wp-content/uploads/2021/05/1.png",
-                        "isCorrect": false
-                    },
-                    {
-                        "id": 3,
-                        "label": "C",
-                        "text": "Gustavo",
-                        "img": "https://www.clarin.com/2024/06/14/N1s81J0jT_2000x1500__1.jpg",
-                        "isCorrect": false
-                    }
-                ]
-            }
+        "img": "",
+        "text": "Quien de ellos es mi crush?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Harry Styles",
+            "img": "https://media.gq.com.mx/photos/6287aef4b6ab8961742397a3/master/pass/Harry-Styles-New-Album-.jpg",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Charles Lecrerc",
+            "img": "https://www.clarin.com/2020/06/15/BBucHrOU9_720x0__1.jpg",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Lucas Till",
+            "img": "https://cdn01.justjaredjr.com/wp-content/uploads/2017/03/lucas-hannah/lucas-till-thankful-hannah-days-03.jpg",
+            "isCorrect": false
+          }
         ]
-    }
+      },
+      {
+        "id": 2,
+        "text": "Que super poderosa me representa mas?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Bombom",
+            "img": "https://pm1.aminoapps.com/7001/d4eb8945852be8cbfb453a458c36d6e3def30796r1-400-300v2_00.jpg",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Burbuja",
+            "img": "https://i.pinimg.com/236x/bd/2f/c7/bd2fc74682d8ac0a757ed728b7f7128f.jpg",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Bellota",
+            "img": "https://i.pinimg.com/236x/aa/0b/e5/aa0be5678116168ae0ad267f63f96d77.jpg",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Comida Favorita",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://cloudfront-us-east-1.images.arcpublishing.com/elespectador/NPCOUP725ZBQBCLN6TJ5RUSHHI.jpg",
+            "text": "Sancocho",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Pasta",
+            "img": "https://images.aws.nestle.recipes/resized/cc72869fabfc2bdfa036fd1fe0e2bad8_creamy_alfredo_pasta_long_left_1080_850.jpg",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Ceviche",
+            "img": "https://i0.wp.com/recetaskwa.com/wp-content/uploads/2023/09/ceviche_camaron.jpg?ssl=1",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Tipo de barba que prefiero en hombres",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://www.bellaroma.mx/wp-content/uploads/2021/07/balbo-o-ancla.jpg",
+            "text": "Medio Medio",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Barba y Bigote",
+            "img": "https://images.ecestaticos.com/NlG3bGAF7UVo24JzhcMdh6nE7UI=/0x0:0x0/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd44%2Ff28%2Fb9a%2Fd44f28b9ad4ca17507118a7794f7ef8d.jpg",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Lampiños",
+            "img": "https://www.shutterstock.com/image-photo/portrait-smiling-shirtless-young-handsome-260nw-1202154754.jpg",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Mi Crush Koreano",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://www.semana.com/resizer/wv_gN9WFqlSslv0bH_1NkpWXrGA=/arc-anglerfish-arc2-prod-semana/public/7BE2Y24ZSBCPZHOX3CUIT6LQIU.JPG",
+            "text": "Koreano Colombiano",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Jungkook (BTS)",
+            "img": "https://fotos.perfil.com/2024/02/16/trim/1280/720/jungkook-1756194.jpg",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Chanyeol (EXO)",
+            "img": "https://altselection.com/wp-content/uploads/2021/05/chanyeol-ballon-protestation-758x443.jpg",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Que carro elejiria para mi?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://www.elcarrocolombiano.com/wp-content/uploads/2021/10/20211002-MINI-COOPER-2022-COLOMBIA-PRECIOS-VERSIONES-CARACTERISTICAS-01.jpg",
+            "text": "Opcion 1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Opcion 2",
+            "img": "https://img.remediosdigitales.com/38b6fe/jeep-wrangler-y-gladiator-high-altitude-2-/840_560.jpg",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Opcion 3",
+            "img": "https://i.pinimg.com/originals/e1/83/5d/e1835d664fc9dfb42ceee273013ca2be.jpg",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Cual rodilla me operaron?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://static.vecteezy.com/system/resources/previews/022/207/441/non_2x/sad-knee-bleeding-boy-falling-down-vector.jpg",
+            "text": "Izquierda",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ambas",
+            "img": "https://www.shutterstock.com/image-vector/sad-cry-cute-kid-girl-600nw-1529301131.jpg",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Derecha",
+            "img": "https://static.vecteezy.com/system/resources/previews/009/295/228/original/sad-little-girl-has-a-knee-injury-crying-holding-her-scratch-bleeding-leg-with-bruises-after-fell-down-vector.jpg",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Numero de tatuajes?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://media.glamour.mx/photos/64d4423e8bcbb1503ffa0a3e/16:9/w_2560%2Cc_limit/tatuajes-pequenos.jpg",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "4",
+            "img": "https://cdntattoofilter.com/tattoo/3422/l.jpg",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "5",
+            "img": "https://www.tattooforaweek.com/cdn/shop/products/number-5-_five_-fake-tattoo-a_1000x.jpg?v=1655977346",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Con cual de ellos me quedo?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://caracoltv.brightspotcdn.com/dims4/default/84653ca/2147483647/strip/true/crop/940x614+0+0/resize/940x614!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F2f%2Fd8%2Fbb05bdee4083b6f597081c9f89b9%2Fazul-verde-azulado-oceano-collage-de-fotos-publicacion-de-facebook.jpg",
+            "text": "Renzo",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Arandu",
+            "img": "https://caracoltv.brightspotcdn.com/dims4/default/0cd1b8c/2147483647/strip/true/crop/1300x867+0+0/resize/1000x667!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F7f%2F2d%2Ff320ef9842fcba3c98ff79debd99%2F10.jpg",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Santi",
+            "img": "https://caracoltv.brightspotcdn.com/dims4/default/f6f0c28/2147483647/strip/true/crop/1920x1080+0+0/resize/1000x563!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F39%2F33%2F4ce1f18542c386d6573bfaaaf98a%2Festo-fue-lo-que-le-paso-a-santi-en-el-box-blanco-del-desafi-2024.png",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Como se llama mi papa?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "img": "https://educo.org.bo/wp-content/uploads/2018/03/P2.jpg",
+            "text": "Jaime",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Carlos",
+            "img": "https://home.tequeremosescuchar.com/wp-content/uploads/2021/05/1.png",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Gustavo",
+            "img": "https://www.clarin.com/2024/06/14/N1s81J0jT_2000x1500__1.jpg",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
 ]
