@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
-    "vite": "^5.3.1",
+    "vite": "^5.4.6",
     "@azure/arm-appinsights": "^2.1.0",
     "@azure/arm-botservice": "^1.0.0",
     "@azure/arm-resources": "^2.1.0",
